@@ -1,0 +1,4 @@
+@ECHO OFF
+CD\SIAC
+DEL *.CDX
+

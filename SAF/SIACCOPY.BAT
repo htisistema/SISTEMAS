@@ -1,0 +1,22 @@
+ECHO OFF
+ARJ A -G? -JT1 SIAC3 *.PRG *.CLP *.BAT *.XLS
+ARJ T -GISCI SIAC3
+pause
+CLS
+ECHO *** Insira o diskete no drive ***
+ECHO .
+ECHO .
+pause
+ECHO *** COPIANDO ARQUIVOS P/DISKETES ***
+COPY SIAC3.ARJ A:
+ARJ T -GISCI A:SIAC3
+ECHO .
+ECHO .
+ECHO *** Insira o diskete no drive ***
+ECHO .
+ECHO .
+pause
+ECHO *** COPIANDO ARQUIVOS P/DISKETES ***
+COPY SIAC3.ARJ A:
+ARJ T -GISCI A:SIAC3
+

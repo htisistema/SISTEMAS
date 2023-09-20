@@ -1,0 +1,26 @@
+Data do erro.............: 06/12/01      Hora: 19:44:44
+Mem¢ria para caracteres..: 145
+Erro a N¡vel Sistema DOS.: 0
+Nome do SubSistema.......: BASE
+Erro a N¡vel SubSistema..: 1003
+C¢digo do Erro Gen‚rico..: 14
+N§ Vezes da Falha........: 1
+N§ do Erro...............: 2
+Possibilita DEFAULT......: NAO
+Possibilita RETRY........: SIM
+Pos.Subst. Erro p/ Valor.: NAO
+
+Argumento Fun‡„o: 
+
+
+NIL
+ Fun‡”es com erro : 
+
+
+Fun‡„o: (b)ERRORSYS(3884)  
+Fun‡„o: LOCKERRHAN(0)  
+Fun‡„o: (b)INITHANDL$(0)  
+Fun‡„o: (b)SAFDBF(170)  
+Fun‡„o: ORDCREATE(0)  
+Fun‡„o: SAFDBF(170)  
+Fun‡„o: SAF(133)  

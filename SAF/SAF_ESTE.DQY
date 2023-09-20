@@ -1,0 +1,7 @@
+XLODBC
+1
+Driver={Microsoft Visual FoxPro Driver};UID=;SourceDB=c:\Helio\SAF;SourceType=DBF;Exclusive=No;BackgroundFetch=Yes;Collate=Machine;Null=Yes;Deleted=Yes;
+SELECT estnota.titulo1, estnota.gstt, estnota.unidade, estnota.disci, estnota.menor, estnota.entre, estnota.maior  FROM estnota estnota
+
+
+titulo1	gstt	unidade	disci	menor	entre	maior
